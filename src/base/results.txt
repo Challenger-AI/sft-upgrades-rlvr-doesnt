@@ -1,0 +1,5 @@
+base_1 accuracy: 2
+base_16 accuracy: 12
+base_2 accuracy: 6
+base_4 accuracy: 7
+base_8 accuracy: 8
