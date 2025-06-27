@@ -39,8 +39,8 @@ print(qwq_acc_txt)
 
 import os
 
-if not os.path.exists("./results.txt"):
-    open("results.txt", "w").close()
+if not os.path.exists("./src/base/results.txt"):
+    open("src/base/results.txt", "w").close()
 
-with open("results.txt", "a") as f:
+with open("src/base/results.txt", "a") as f:
     f.write(qwq_acc_txt)
